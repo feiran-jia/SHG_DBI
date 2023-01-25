@@ -63,10 +63,12 @@ First, you need to build your own payoff function -->
 If you used the DBI in your work, please cite us using the following BibTeX entry:
 
 <pre>
-@article{li2021solving,
+@inproceedings{li2022solving,
   title={Solving structured hierarchical games using differential backward induction},
   author={Li, Zun and Jia, Feiran and Mate, Aditya and Jabbari, Shahin and Chakraborty, Mithun and Tambe, Milind and Vorobeychik, Yevgeniy},
-  journal={arXiv preprint arXiv:2106.04663},
-  year={2021}
+  booktitle={Uncertainty in Artificial Intelligence},
+  pages={1107--1117},
+  year={2022},
+  organization={PMLR}
 }
 </pre>
